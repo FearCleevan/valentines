@@ -33,7 +33,7 @@ export default function Valentine() {
   return (
     <div className="container">
       <img
-        src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif"
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW91dzIzeHgxemt6ZzgxdHZsb3F3YXltdHl1NDF6Y2k0am1mOXY3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2aw9gwZlltbdX92b4w/giphy.gif"
         className="gif"
         alt="cute"
       />
